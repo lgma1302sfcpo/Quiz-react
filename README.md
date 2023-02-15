@@ -1,1 +1,1 @@
-Instale npm i vite
+Instale npm create vite@latest
